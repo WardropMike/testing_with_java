@@ -15,5 +15,5 @@ Make sure you are running a java development environment using java version 16
 
 * Services from framework:
 <p align="center">
-  <img src="https://github.com/WardropMike/testing_with_java/blob/master/proj_docs/Framework_Pipeline_Services.png" height="200">
+  <img src="https://github.com/WardropMike/testing_with_java/blob/master/proj_docs/Framework_Pipeline_Services_II.png" height="200">
 </p>
