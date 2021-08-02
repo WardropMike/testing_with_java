@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="testing_with_java">
+  <test thread-count="5" name="testApiAf.java, webUiHomePage.java">
+    <classes>
+      <class name="testNG.testApiAf"/>
+      <class name="testNG.webUiHomePage"/>
+    </classes>
+  </test> <!-- testApiAf.java, webUiHomePage.java -->
+</suite> <!-- testing_with_java -->
